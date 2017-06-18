@@ -1,0 +1,10 @@
+# Data.in File Template. Format should be one two rows of data per experiment.
+# 
+# DOSE: 	      D1,D2,D3,...Dn
+# Surviving Fraction: S1,S2,S3,...Sn
+0,3,6,9
+1,0.5,0.2,0.022
+0,3,6,9
+1,0.3,0.07,0.006
+0,3,6,9
+1,0.3,0.06,0.008
